@@ -1,4 +1,4 @@
-# Smart Event Planner — Capstone Project
+# Smart Event Planner 
 
 **Program:** Building Agentic AI Systems by SDAIA Academy
 

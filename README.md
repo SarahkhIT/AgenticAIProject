@@ -24,7 +24,7 @@ real tools, answers grounded questions from a knowledge base, and routes between
 and knowledge specialists automatically — all with a human approval step before anything
 is finalized.
 
-**Capabilities:**
+## Capabilities
 - **Structured intake** — natural-language requests are parsed into a validated Pydantic
   `EventRequest` (no invented fields).
 - **Real planning tools** — budget allocation, venue search, catering search, decoration

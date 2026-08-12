@@ -2,7 +2,7 @@
 
 **Program:** Building Agentic AI Systems by SDAIA Academy
 
-**Session Dates:** 9th of August, 2026 – 13th of August, 2026
+**Cohort Dates:** 9th of August, 2026 – 13th of August, 2026
 
 **Declared Track:** Track A
 

@@ -17,7 +17,7 @@
 
 ## Project Description
 
-**Smart Event Planner** is an agentic AI system for planning events end-to-end. A user
+**AI Event Planner** is an agentic AI system for planning events end-to-end. A user
 describes an event in natural language (type, guest count, budget, date, indoor/outdoor
 preference, theme), and the system extracts a structured request, plans the event using
 real tools, answers grounded questions from a knowledge base, and routes between planning
